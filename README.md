@@ -2,7 +2,7 @@
 
 This Projects Is Based on ReactJs Which is UI Design of Social Media and With communication with Different Pages and Components .
 
-It Does Not Contain Any Difficult Functions only Represent How Social Media Front App would Work .
+It Does Not Contain Any Difficult Functions only Represent How Social Media FrontEndApp would Work .
 
 # Getting Started with Create React App
 
