@@ -1,6 +1,6 @@
 # Project of UI of Social Media App - UI (React JS )
 
-This Projects Is Based on React Js Which is UI Design of Social Media and With communication with Different Pages and Components .
+This Projects Is Based on ReactJs Which is UI Design of Social Media and With communication with Different Pages and Components .
 
 It Does Not Contain Any Difficult Functions only Represent How Social Media Front App would Work .
 
