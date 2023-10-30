@@ -1,0 +1,136 @@
+.rightbar {
+    flex: 3.5;
+  }
+
+  .rightbarWrapper {
+    padding: 20px 20px 0 0 ;
+  }
+  
+  .birthdayImg {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+  }
+
+  .birthdayContainer {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+  }
+
+  .birthdayText {
+    font-weight: 500;
+    font-size: 15px;
+  }
+ 
+  .rightbarAd {
+    width: 98%;
+    border-radius: 10px;
+    margin: 30px 0;
+    -webkit-box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+  box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+
+  }
+
+  .rightbarFriendList{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .rightbarFriend {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+
+   
+  .rightbarProfileImgContainer {
+    margin-right: 20px;
+    position: relative;
+  }
+
+
+  .rightbarProfileImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  .righbarOnline{
+    position: absolute;
+    background-color: limegreen ; 
+    width: 12px;
+    height: 12px;
+    border-radius: 50%; 
+    right: 0;
+    top: -3px;
+    border: 2px solid white;
+    
+  }
+
+  .rightbarUserName {
+    font-weight: 500;
+  }
+
+  .rightbarTitle {
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+
+
+  /* User Information */
+.rightbarTitle {
+  font-weight: 500;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.rightbarInfo {
+  margin-top: 10px;
+}
+
+.rightbarInfoItem { 
+  margin-bottom: 10px;
+}
+
+.rigtbarInfoKey {
+  font-weight: 500;
+  margin-right: 15px;
+  color: #555; 
+}
+
+.rigtbarInfoValue {
+  font-weight: 300;
+}
+
+/* User Friends */
+.rightbarFollowings {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.rightbarFollowing {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.rightbarFollowingImg {
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+  object-fit: cover;
+  margin-right: 5px;
+
+}
+
+.rightbarFollwingName {
+  font-weight: bold;
+}
+
+/* Add additional styles as needed */
