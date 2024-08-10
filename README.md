@@ -4,6 +4,16 @@ This Projects Is Based on ReactJs Which is UI Design of Social Media and With co
 
 It Does Not Contain Any Difficult Functions only Represent How Social Media FrontEndApp would Work .
 
+# Upcoming features :
+
+Authentication for Login and Signup usig jwt and Google Auth etc
+Full functions of all types of Buttons
+Backend
+Chat Directly live
+Send Messages directly
+Email Buttons
+Functioning Notificatios etc
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
